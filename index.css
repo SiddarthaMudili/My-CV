@@ -25,5 +25,8 @@
 }
 .links{
     text-decoration: none;
-    color:black;
+    color: black;
+}
+.links:hover{
+    color:blueviolet;
 }
