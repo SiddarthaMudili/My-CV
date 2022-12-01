@@ -1,6 +1,11 @@
 *{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+body{
+    margin:0;
+    padding:0;
+    border:0;
+}
 .head{
     background-color:cadetblue;
     width:100%;
