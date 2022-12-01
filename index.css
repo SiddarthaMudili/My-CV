@@ -14,7 +14,7 @@ body{
 .info{
     float: left;
     padding: 20px;
-    width:100%;
+    width:95%;
 }
 .profile{
     float:left;
@@ -34,4 +34,7 @@ body{
 }
 .links:hover{
     color:blueviolet;
+}
+.rule{
+    padding-left: 10px;
 }
