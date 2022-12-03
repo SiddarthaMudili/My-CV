@@ -28,6 +28,7 @@ body{
     color:cadetblue
 }
 .heading1{
+    font-size: 40px;
     color: cadetblue;
 }
 .links{
@@ -61,7 +62,7 @@ body{
     height:25px;
 }
 .font1{
-    font-size:25px;
+    font-size:30px;
 }
 .font2{
     font-size:23px;
@@ -83,13 +84,13 @@ body{
         font-size:100%
     }
     .font1{
-        font-size:45%
+        font-size:50%
     }
     .prohead{
-        font-size:50%;
+        font-size:60%;
     }
     .font2{
-        font-size:45%;
+        font-size:50%;
     }
     .logo{
         width:15px;
